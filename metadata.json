@@ -1,0 +1,7 @@
+{
+  "name": "Abyss: Voxel Deep Dive",
+  "description": "A procedural underwater voxel exploration game where you pilot a submarine, manage oxygen, and use AI to analyze deep-sea discoveries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
